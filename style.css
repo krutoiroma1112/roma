@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 20px;
+}
+
+.catalog {
+    
+}
+
+.produkt {
+    float: left;
+    width: fi;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+   
+}
+div{
+    display: block;
+    border: double;
+    height: 0.3;
+    width: 0.3;
+}
